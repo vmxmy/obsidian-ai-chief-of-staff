@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/
+!.obsidian/workspace.json
+!.obsidian/app.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.log
